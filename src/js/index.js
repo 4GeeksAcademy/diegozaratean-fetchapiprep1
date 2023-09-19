@@ -9,6 +9,7 @@ import "../styles/index.css";
 import Home from "./component/home.jsx";
 import Counter from "./component/counter.jsx";
 import Getdata from "./component/getdata.jsx";
+import Test from "./component/test.jsx";
 
 //render your react application
-ReactDOM.render(<Getdata />, document.querySelector("#app"));
+ReactDOM.render(<Test />, document.querySelector("#app"));
